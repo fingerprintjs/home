@@ -31,8 +31,8 @@
 
 #### Format: `blog-<name-of-blog-or example>-<type>`
 
-- `blog` - optional, mandatory if repository supports article and is not explanatory enought without supporting content
-- `<name-of-blog-or-example>` - mandatory, should be descriptive or alligned with the blogpost name
+- `blog` - optional, mandatory if repository supports article and is not explanatory enough without supporting content
+- `<name-of-blog-or-example>` - mandatory, should be descriptive or aligned with the blogpost name
   - Examples: `adblocker-fingerprinting`, `audio-fingerprinting`
 - `<type>` - optional, might be ommited if not used for blog
   - *Examples:  `demo`, `example`*
