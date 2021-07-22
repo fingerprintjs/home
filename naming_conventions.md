@@ -69,5 +69,5 @@
 ### Examples
 
 - `@fingerprintjs/fingerprintjs-agent` or `@fingerprintjs/fingerprintjs-client`
-- `@fingerprintjs/fingerprintjs-pro-agent` or `@fingerprintjs/fingerprintjs-pro-agent-client`
+- `@fingerprintjs/fingerprintjs-pro-agent` or `@fingerprintjs/fingerprintjs-pro-client`
 - `@fpjs-incubator/botd-agent` migh be renamed in the future to `@fingerprintjs/botd-agent`
