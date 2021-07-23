@@ -8,6 +8,8 @@
 
 ---
 
+*In general, `<placeholders>` should be in kebab case only, example: `fingerprintjs-agent`*
+
 ### Is the repository related to the company's product?
 
 #### Format: `<product>-<project-name>-<language/platform>`
