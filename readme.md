@@ -41,6 +41,6 @@ Welcome to the world of FingerprintJS open source software. This is the home rep
 ### Our selected demos, examples and research
 - [external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - The source code of the demo for external protocol flooding vulnerability. Allows arbitrary websites to gather information about installed applications on a victim's computer in order to perform reliable tracking across different desktop browsers.
 - [fingerprintjs-paywall-example](https://github.com/fingerprintjs/fingerprintjs-paywall-example) - Metered paywall demo, built with FingerprintJS PRO, Node.js, Express, and Postgres.
-- [ingerprintjs-react-example](https://github.com/fingerprintjs/fingerprintjs-react-example) - How to implement FingerprintJS in a "create-react-app" application
+- [fingerprintjs-react-example](https://github.com/fingerprintjs/fingerprintjs-react-example) - How to implement FingerprintJS in a "create-react-app" application
 - [blog-adblocker-fingerprinting-demo](https://github.com/fingerprintjs/blog-adblocker-fingerprinting-demo) - Interactive demos for an ad blocker fingerprint article
 - [blog-audio-fingerprinting-demo](https://github.com/fingerprintjs/blog-audio-fingerprinting-demo) - Interactive audio signal charts for an audio fingerprint article
