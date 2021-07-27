@@ -15,18 +15,18 @@
 #### Format: `<product>-<project-name>-<language/platform>`
 
 - `<product>` - mandatory, related product
-  - *Examples: `fingerprintjs`, `fingerprintjs-pro`, `botd`*
+  - *Examples: `fingerprintjs`, `fingerprintjs-pro`, `fingerprint-android`, `botd`*
 - `<project-name>` - mandatory, descriptive name of the project
   - *Examples: `server-api-sdk`, `agent`, `client`, `integrations`*
 - `<language/platform>` - optional, use when makes sense or it's plausible there will be available the same functionality for different language/platform in the future. Mostly apply to agents, wrappers, or SDKs.
-  - *Examples: `javascript`, `node`, `react`, `python`*
+  - *Examples: `javascript`, `node`, `react`, `python`, `kotlin`*
 
 #### Examples
 
 - `fingerprintjs-agent` or `fingerprintjs-client`
 - `botd-agent` or `botd-client`
 - `botd-integrations`
-- `fingerprint-android-client` or `fingerprintjs-android-client`
+- `fingerprint-android-client` or `fingerprint-android-client-kotlin`
 ---
 
 ### Is the repository related to the content, blog post, article, or video? Is it just an example without any supporting content?
