@@ -24,7 +24,12 @@ Welcome to the world of FingerprintJS open source software. This is the home rep
 ### FingerptintJS PRO
   
 [FingerprintJS PRO](https://fingerprintjs.com/) offers highly accurate browser fingerprinting technology (99.5%) and is used by over 8,000 websites. It can verify legitimate users and block fraudsters even if they use VPNs, private browsing, clear cookies, or other methods to hide. FingerprintJS PRO helps websites secure their login, checkout and other pages from fraudulent login attempts, credit card fraud, cheating on online platforms and more by uniquely identifying every browser that connects to your website.
-  
+
+Not only does FingerprintJS Pro provide accurate fingerprinting inside the browser, but one also can use it in the native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios-integrations) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-integrations) application with the native platform-specific library, or with the webview integration. These integrations work together with FingerprintJS Pro API.
+
+#### Native Mobile Integrations
+- [fingerprintjs-pro-android-integrations](https://github.com/fingerprintjs/fingerprintjs-pro-android-integrations)
+- [fingerprintjs-pro-ios-integrations](https://github.com/fingerprintjs/fingerprintjs-pro-ios-integrations)  
 ---
   
 ### Bot Detection
@@ -34,7 +39,7 @@ Welcome to the world of FingerprintJS open source software. This is the home rep
 ---
   
 ### Fingerprint Android
-[Fingerprint Android](https://github.com/fingerprintjs/fingerprint-android) is a lightweight library for device identification and fingerprinting fully written in Kotlin.
+[Fingerprint Android](https://github.com/fingerprintjs/fingerprint-android) is a lightweight library for offline device identification and fingerprinting fully written in Kotlin.
 
 ---
 
