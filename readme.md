@@ -35,7 +35,12 @@ Not only does FingerprintJS Pro provide accurate fingerprinting inside the brows
 ### Bot Detection
 [Botd](https://github.com/fingerprintjs/botd) is a browser library for JavaScript bot detection (detecting automation tools, browser spoofing and virtual machines).
 [Botd integrations](https://github.com/fingerprintjs/botd-integrations) repository contains examples of integrations with cloud platforms.
-  
+
+---
+
+### GradeJS
+[GradeJS](https://github.com/fingerprintjs/gradejs) allows you to analyze JavaScript bundles without having access to the source code of the website. GradeJS analyzes the content of the bundles and returns the list of the used packages with detailed packages' information. The tool can detect packages even in minified and tree-shaken bundles.
+
 ---
   
 ### Fingerprint Android
@@ -44,6 +49,7 @@ Not only does FingerprintJS Pro provide accurate fingerprinting inside the brows
 ---
 
 ### Our selected demos, examples and research
+- [blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A fingerprint that works without JavaScript and cookies.
 - [external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - The source code of the demo for external protocol flooding vulnerability. Allows arbitrary websites to gather information about installed applications on a victim's computer in order to perform reliable tracking across different desktop browsers.
 - [fingerprintjs-paywall-example](https://github.com/fingerprintjs/fingerprintjs-paywall-example) - Metered paywall demo, built with FingerprintJS PRO, Node.js, Express, and Postgres.
 - [fingerprintjs-react-example](https://github.com/fingerprintjs/fingerprintjs-react-example) - How to implement FingerprintJS in a "create-react-app" application.
