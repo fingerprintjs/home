@@ -58,5 +58,6 @@ Not only does FingerprintJS Pro provide accurate fingerprinting inside the brows
 
 ---
 
-## Other Resources
-- [Naming conventions](https://github.com/fingerprintjs/home/wiki/FingerprintJS-Naming-Conventions) - FingerprintJS repositories and packages naming conventions.
+## Contribution guidelines
+- [Integrations and repositories best practices](https://github.com/fingerprintjs/home/wiki/Integrations-and-repositories-best-practices)
+- [Naming conventions](https://github.com/fingerprintjs/home/wiki/FingerprintJS-Naming-Conventions)
