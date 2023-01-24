@@ -1,11 +1,15 @@
 <p align="center">
-  <a href="https://fingerprintjs.com">
-    <img src="https://user-images.githubusercontent.com/10922372/126625113-3211d463-37ce-4512-a5c4-ead4a2bc280d.png" alt="FingerprintJS" width="312px" />
+  <a href="https://fingerprint.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="resources/logo_light.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="resources/logo_dark.svg" />
+      <img src="resources/logo_dark.svg" alt="Fingerprint logo" width="312px" />
+    </picture>
   </a>
-<p align="center">
+</p>
 <p align="center">
   <a href="https://discord.gg/39EpE2neBg">
-    <img src="https://img.shields.io/discord/852099967190433792?style=for-the-badge&label=Discord&logo=Discord&logoColor=white" alt="Discord server">
+    <img src="https://img.shields.io/discord/852099967190433792?style=logo&label=Discord&logo=Discord&logoColor=white" alt="Discord server">
   </a>
 </p>
   
