@@ -31,7 +31,7 @@ Fingerprint Pro builds on the FingerprintJS browser fingerprint library to provi
 
 - Cookie and local storage management - Leverages cryptographically signed cookies and local storage to reliably associate visitor identifier values with fingerprintable attributes.
 - Server-side analysis and machine learning - Provides a holistic view of all attributes and layers to generate the most stable and accurate visitor ID.
-- Storage and deduplication - Collects multiple attributes to do fuzzy matching and handle browser and OS upgrades
+- Storage and deduplication - Collects multiple attributes to do fuzzy matching and handle browser and OS upgrades.
 - Native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-demo) libraries - Enables accurate iOS and Android application user identification with the native platform-specific library, or with the webview integration. These integrations work together with Fingerprint Pro API.
 
 ## Related open-source projects
