@@ -69,6 +69,8 @@ Open-source libraries that make it easy to integrate Fingerprint Pro into your a
 * [Vue](https://github.com/fingerprintjs/fingerprintjs-pro-vue)
 * [Angular](https://github.com/fingerprintjs/fingerprintjs-pro-angular)
 * [Svelte](https://github.com/fingerprintjs/fingerprintjs-pro-svelte)
+* [React Native](https://github.com/fingerprintjs/fingerprintjs-pro-react-native)
+* [Flutter](https://github.com/fingerprintjs/fingerprintjs-pro-flutter)
 
 ---
 
