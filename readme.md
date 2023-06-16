@@ -15,54 +15,90 @@
   
 # FingerprintJS
 
-Welcome to the world of FingerprintJS open source software. This is the home repository where you can get up to speed in minutes. In the [wiki section](https://github.com/FingerprintJS/Home/wiki) of this repository, you can find the best practices and guidelines for open source projects.
-  
-## Our highlighted products and related open-source projects
-  
-### FingerprintJS
-  
+Welcome to the world of FingerprintJS open source software. This is the home repository where you can get up to speed in minutes. In the [wiki section](https://github.com/FingerprintJS/Home/wiki) of this repository, you can find the best practices and guidelines for open-source projects. 
+
 [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.
-  
----
-  
-### FingerptintJS PRO
-  
-[FingerprintJS PRO](https://fingerprintjs.com/) offers highly accurate browser fingerprinting technology (99.5%) and is used by over 8,000 websites. It can verify legitimate users and block fraudsters even if they use VPNs, private browsing, clear cookies, or other methods to hide. FingerprintJS PRO helps websites secure their login, checkout and other pages from fraudulent login attempts, credit card fraud, cheating on online platforms and more by uniquely identifying every browser that connects to your website.
 
-Not only does FingerprintJS Pro provide accurate fingerprinting inside the browser, but one also can use it in the native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios-integrations) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-integrations) application with the native platform-specific library, or with the webview integration. These integrations work together with FingerprintJS Pro API.
-
-#### Native Mobile Integrations
-- [fingerprintjs-pro-android-integrations](https://github.com/fingerprintjs/fingerprintjs-pro-android-integrations)
-- [fingerprintjs-pro-ios-integrations](https://github.com/fingerprintjs/fingerprintjs-pro-ios-integrations)  
 ---
-  
-### Bot Detection
-[Botd](https://github.com/fingerprintjs/botd) is a browser library for JavaScript bot detection (detecting automation tools, browser spoofing and virtual machines).
-[Botd integrations](https://github.com/fingerprintjs/botd-integrations) repository contains examples of integrations with cloud platforms.
+
+## Related products 
+
+### Fingerprint Pro
+
+[Fingerprint Pro](https://fingerprint.com/github/) offers highly accurate browser fingerprinting technology (99.5%) and is used by over 8,000 websites. It can verify legitimate users and block fraudsters even if they use VPNs, browse in incognito  mode, clear their cookies, or use other methods to hide their identity. Fingerprint Pro helps companies prevent fraud, improve user experiences, and better understand their traffic.
+
+Fingerprint Pro builds on the FingerprintJS browser fingerprint library to provide up to 99.5% accurate device identification. Key capabilities include:
+
+- Cookie and local storage management - Leverages cryptographically signed cookies and local storage to reliably associate visitor identifier values with fingerprintable attributes.
+- Server-side analysis and machine learning - Provides a holistic view of all attributes and layers to generate the most stable and accurate visitor ID.
+- Storage and deduplication - Collects multiple attributes to do fuzzy matching and handle browser and OS upgrades.
+- Native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-demo) libraries - Enables accurate iOS and Android application user identification with the native platform-specific library, or with the webview integration. These integrations work together with Fingerprint Pro API.
+
+## Related open-source projects
+
+### Native mobile fingerprinting libraries
+
+- [fingerprintjs-android](https://github.com/fingerprintjs/fingerprintjs-android) - open-source library for Android device identification.
+- [fingerprintjs-ios](https://github.com/fingerprintjs/fingerprintjs-ios) - open-source library for iOS device identification.
+
+---
+
+### BotD - open-source bot detection for the web
+
+[Botd](https://github.com/fingerprintjs/botd) is a browser JavaScript library for bot detection that enables you to detect bots and browser automation tools in your web applications. The [BotD integrations](https://github.com/fingerprintjs/botd-integrations) repository contains examples of integrations with cloud platforms.
 
 ---
 
 ### GradeJS
-[GradeJS](https://github.com/fingerprintjs/gradejs) allows you to analyze JavaScript bundles without having access to the source code of the website. GradeJS analyzes the content of the bundles and returns the list of the used packages with detailed packages' information. The tool can detect packages even in minified and tree-shaken bundles.
 
----
-  
-### Fingerprint Android
-[Fingerprint Android](https://github.com/fingerprintjs/fingerprint-android) is a lightweight library for offline device identification and fingerprinting fully written in Kotlin.
+[GradeJS](https://github.com/gradejs/gradejs) allows you to analyze JavaScript bundles without having access to the source code of the website. GradeJS analyzes the content of the bundles and returns the list of the used packages with detailed information about the package. The tool can detect packages even in minified and tree-shaken bundles.
 
 ---
 
-### Our selected demos, examples and research
+### Fingerprint Pro Use cases
+
+- [fingerprinthub.com](https://github.com/fingerprintjs/fingerprintjs-pro-use-cases) - Open-source demos of various Fingerprint Pro use cases including payment fraud prevention, promotion abuse prevention, credential stuffing protection, paywall metering, personalization, bot detection and more. 
+
+---
+
+### Fingerprint Pro client SDKs
+
+Open-source libraries that make it easy to integrate Fingerprint Pro into your application. Each library contains an example application:
+
+* [React](https://github.com/fingerprintjs/fingerprintjs-pro-react) (including Preact and Next support)
+* [Vue](https://github.com/fingerprintjs/fingerprintjs-pro-vue)
+* [Angular](https://github.com/fingerprintjs/fingerprintjs-pro-angular)
+* [Svelte](https://github.com/fingerprintjs/fingerprintjs-pro-svelte)
+* [React Native](https://github.com/fingerprintjs/fingerprintjs-pro-react-native)
+* [Flutter](https://github.com/fingerprintjs/fingerprintjs-pro-flutter)
+
+---
+
+### Fingerprint Pro server SDKs
+
+Open-source libraries that make it easy to use Fingerprint Pro Server API: 
+
+* [Node.js](https://github.com/fingerprintjs/fingerprintjs-pro-server-api-node-sdk)
+* [Python](https://github.com/fingerprintjs/fingerprint-pro-server-api-python-sdk)
+* [PHP](https://github.com/fingerprintjs/fingerprint-pro-server-api-php-sdk)
+* [C#/.NET](https://github.com/fingerprintjs/fingerprint-pro-server-api-dotnet-sdk/)
+* [Java](https://github.com/fingerprintjs/fingerprint-pro-server-api-java-sdk)
+* [Go](https://github.com/fingerprintjs/fingerprint-pro-server-api-go-sdk)
+
+---
+
+### Selected demos, examples, and research
+
 - [blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A fingerprint that works without JavaScript and cookies.
-- [external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - The source code of the demo for external protocol flooding vulnerability. Allows arbitrary websites to gather information about installed applications on a victim's computer in order to perform reliable tracking across different desktop browsers.
-- [fingerprintjs-paywall-example](https://github.com/fingerprintjs/fingerprintjs-paywall-example) - Metered paywall demo, built with FingerprintJS PRO, Node.js, Express, and Postgres.
-- [fingerprintjs-react-example](https://github.com/fingerprintjs/fingerprintjs-react-example) - How to implement FingerprintJS in a "create-react-app" application.
+- [external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - The source code of the demo for external protocol flooding vulnerability. Allows arbitrary websites to gather information about installed applications on a victim's computer to perform reliable tracking across different desktop browsers.
 - [blog-adblocker-fingerprinting-demo](https://github.com/fingerprintjs/blog-adblocker-fingerprinting-demo) - Interactive demos for an ad blocker fingerprint article.
 - [blog-audio-fingerprinting-demo](https://github.com/fingerprintjs/blog-audio-fingerprinting-demo) - Interactive audio signal charts for an audio fingerprint article.
+- [blog-apple-id-region-detection](https://github.com/fingerprintjs/blog-apple-id-region-detection) - Interactive demo showing detection of apple ID region using smart app banners.
 
 ---
 
 ## Contribution guidelines
+
 - [Integrations and repositories best practices](https://github.com/fingerprintjs/home/wiki/Integrations-and-repositories-best-practices)
 - [Naming conventions](https://github.com/fingerprintjs/home/wiki/FingerprintJS-Naming-Conventions)
 - [Checklist for publishing integration](https://github.com/fingerprintjs/home/wiki/Checklist-for-publishing-new-integration)
