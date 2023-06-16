@@ -34,6 +34,26 @@ Fingerprint Pro builds on the FingerprintJS browser fingerprint library to provi
 - Storage and deduplication - Collects multiple attributes to do fuzzy matching and handle browser and OS upgrades.
 - Native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-demo) libraries - Enables accurate iOS and Android application user identification with the native platform-specific library, or with the webview integration. These integrations work together with Fingerprint Pro API.
 
+### Fingerprint Pro Plus
+Fingerprint Pro Plus expands on Fingerprint Pro’s identification via the visitor ID and adds Smart Signals for enhanced fraud detection and prevention. Fingerprint Pro Plus is geared for businesses that need additional tools to understand their anonymous users, identify malicious users, and prevent fraud. Fingerprint Pro Plus provides the visitor ID, a unique identifier, and combines that with Smart Signals to tackle your fraud use cases. 
+
+#### Smart Signals 
+
+Smart Signals are an extensive set of signals, not used in traditional identification processes, that are used to identify anonymous visitors attempting to perform fraudulent activities enabling you to identify them with confidence while providing a frictionless, positive experience for trusted visitors. 
+
+- Browser bot detection
+- Incognito mode detection
+- IP geolocation
+- VPN detection
+- IP blocklist matching
+- Browser tamper detection
+- Android tamper detection
+- Android emulator detection
+- Raw device attributes
+
+With Fingerprint Pro Plus - you get access to five smart signals:Browser bot detection, Incognito mode detection, IP blocklist matching, IP geolocation, and VPN detection. The remaining signals are available in Fingerprint Enterprise. 
+
+
 ## Related open-source projects
 
 ### Native mobile fingerprinting libraries
