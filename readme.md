@@ -15,7 +15,7 @@
   
 # FingerprintJS
 
-Welcome to the world of FingerprintJS open source software. This is the home repository where you can get up to speed in minutes. In the [wiki section](https://github.com/FingerprintJS/Home/wiki) of this repository, you can find the best practices and guidelines for open-source projects. 
+Welcome to the world of FingerprintJS open-source software. This is the home repository where you can get up to speed in minutes. In the [wiki section](https://github.com/FingerprintJS/Home/wiki) of this repository, you can find the best practices and guidelines for open-source projects. 
 
 [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.
 
@@ -25,7 +25,7 @@ Welcome to the world of FingerprintJS open source software. This is the home rep
 
 ### Fingerprint Pro
 
-[Fingerprint Pro](https://fingerprint.com/github/) offers highly accurate browser fingerprinting technology (99.5%) and is used by over 8,000 websites. It can verify legitimate users and block fraudsters even if they use VPNs, browse in incognito  mode, clear their cookies, or use other methods to hide their identity. Fingerprint Pro helps companies prevent fraud, improve user experiences, and better understand their traffic.
+[Fingerprint Pro](https://fingerprint.com/github/) offers highly accurate browser fingerprinting technology (99.5%) and is used by over 8,000 websites. It can verify legitimate users and block fraudsters even if they use VPNs, browse in incognito mode, clear their cookies, or use other methods to hide their identity. Fingerprint Pro helps companies prevent fraud, improve user experiences, and better understand their traffic.
 
 Fingerprint Pro builds on the FingerprintJS browser fingerprint library to provide up to 99.5% accurate device identification. Key capabilities include:
 
@@ -35,7 +35,7 @@ Fingerprint Pro builds on the FingerprintJS browser fingerprint library to provi
 - Native [iOS](https://github.com/fingerprintjs/fingerprintjs-pro-ios) and [Android](https://github.com/fingerprintjs/fingerprintjs-pro-android-demo) libraries - Enables accurate iOS and Android application user identification with the native platform-specific library, or with the webview integration. These integrations work together with Fingerprint Pro API.
 
 ### Fingerprint Pro Plus
-Fingerprint Pro Plus expands on Fingerprint Pro’s identification via the visitor ID and adds Smart Signals for enhanced fraud detection and prevention. Fingerprint Pro Plus is geared for businesses that need additional tools to understand their anonymous users, identify malicious users, and prevent fraud. Fingerprint Pro Plus provides the visitor ID, a unique identifier, and combines that with Smart Signals to tackle your fraud use cases. 
+Fingerprint Pro Plus expands on Fingerprint Pro’s identification via the visitor ID and adds Smart Signals for enhanced fraud detection and prevention. Fingerprint Pro Plus is geared toward businesses that need additional tools to understand their anonymous users, identify malicious users, and prevent fraud. Fingerprint Pro Plus provides the visitor ID, a unique identifier, and combines that with Smart Signals to tackle your anti-fraud use cases. 
 
 #### Smart Signals 
 
@@ -51,7 +51,7 @@ Smart Signals are an extensive set of signals, not used in traditional identific
 - Android emulator detection
 - Raw device attributes
 
-With Fingerprint Pro Plus - you get access to five smart signals:Browser bot detection, Incognito mode detection, IP blocklist matching, IP geolocation, and VPN detection. The remaining signals are available in Fingerprint Enterprise. 
+With Fingerprint Pro Plus - you get access to five smart signals: Browser bot detection, Incognito mode detection, IP blocklist matching, IP geolocation, and VPN detection. The remaining signals are available in Fingerprint Enterprise. 
 
 
 ## Related open-source projects
