@@ -39,20 +39,30 @@ Fingerprint Pro Plus expands on Fingerprint Pro’s identification via the visit
 
 #### Smart Signals 
 
-Smart Signals are an extensive set of signals, not used in traditional identification processes, that are used to identify anonymous visitors attempting to perform fraudulent activities enabling you to identify them with confidence while providing a frictionless, positive experience for trusted visitors. 
+[Smart Signals](https://dev.fingerprint.com/docs/smart-signals-overview) are an extensive set of signals, not used in traditional identification processes, that are used to identify anonymous visitors attempting to perform fraudulent activities enabling you to identify them with confidence while providing a frictionless, positive experience for trusted visitors. 
 
 - Browser bot detection
 - Incognito mode detection
 - IP geolocation
 - VPN detection
-- IP blocklist matching
 - Browser tamper detection
-- Android tamper detection
-- Android emulator detection
+- Virtual machine detection
+- Privacy-focused settings detection
+- Developer tools detection
+- Remote control tools detection
+- IP blocklist matching
+- High-activity device detection
 - Raw device attributes
+- Android emulator detection
+- Android tamper detection
+- Android cloned app detection
+- Factory reset detection
+- Frida detection
+- Geolocation spoofing detection
+- Jailbroken iOS device detection
+- Suspect score
 
-With Fingerprint Pro Plus - you get access to five smart signals: Browser bot detection, Incognito mode detection, IP blocklist matching, IP geolocation, and VPN detection. The remaining signals are available in Fingerprint Enterprise. 
-
+With Fingerprint Pro Plus you get access to most Smart Signals. High-activity device, IP blocklist matching, and Raw device attributes are only available in Fingerprint Enterprise.
 
 ## Related open-source projects
 
@@ -77,7 +87,7 @@ With Fingerprint Pro Plus - you get access to five smart signals: Browser bot de
 
 ### Fingerprint Pro Use cases
 
-- [fingerprinthub.com](https://github.com/fingerprintjs/fingerprintjs-pro-use-cases) - Open-source demos of various Fingerprint Pro use cases including payment fraud prevention, promotion abuse prevention, credential stuffing protection, paywall metering, personalization, bot detection and more. 
+- [demo.fingerprint.com](https://github.com/fingerprintjs/fingerprintjs-pro-use-cases) - Open-source demos of various Fingerprint Pro use cases including payment fraud prevention, promotion abuse prevention, credential stuffing protection, paywall metering, personalization, bot detection and more. 
 
 ---
 
@@ -122,3 +132,7 @@ Open-source libraries that make it easy to use Fingerprint Pro Server API:
 - [Integrations and repositories best practices](https://github.com/fingerprintjs/home/wiki/Integrations-and-repositories-best-practices)
 - [Naming conventions](https://github.com/fingerprintjs/home/wiki/FingerprintJS-Naming-Conventions)
 - [Checklist for publishing integration](https://github.com/fingerprintjs/home/wiki/Checklist-for-publishing-new-integration)
+
+## Community 
+
+- [Discord server](https://discord.gg/39EpE2neBg) - Join the Fingerprint community on Discord.
