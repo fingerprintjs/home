@@ -39,7 +39,7 @@ Fingerprint Pro Plus expands on Fingerprint Pro’s identification via the visit
 
 #### Smart Signals 
 
-[Smart Signals](https://dev.fingerprint.com/docs/smart-signals-overview) are an extensive set of signals, not used in traditional identification processes, that are used to identify anonymous visitors attempting to perform fraudulent activities enabling you to identify them with confidence while providing a frictionless, positive experience for trusted visitors. 
+[Smart Signals](https://dev.fingerprint.com/docs/smart-signals-overview) are an extensive set of actionable device intelligence signals that you can use to identify suspicious activity even when users are anonymous or visiting your site for the first time. By analyzing these signals and looking for unusual behavior you can make smarter decisions in real time to prevent fraudulent activities while still providing a positive experience for trusted visitors.
 
 - Browser bot detection
 - Incognito mode detection
@@ -87,7 +87,7 @@ With Fingerprint Pro Plus you get access to most Smart Signals. High-activity de
 
 ### Fingerprint Pro Use cases
 
-- [demo.fingerprint.com](https://github.com/fingerprintjs/fingerprintjs-pro-use-cases) - Open-source demos of various Fingerprint Pro use cases including payment fraud prevention, promotion abuse prevention, credential stuffing protection, paywall metering, personalization, bot detection and more. 
+- [demo.fingerprint.com](https://demo.fingerprint.com) ([source](https://github.com/fingerprintjs/fingerprintjs-pro-use-cases)) - Open-source demos of various Fingerprint Pro use cases including payment fraud prevention, promotion abuse prevention, credential stuffing protection, paywall metering, personalization, bot detection and more. 
 
 ---
 
