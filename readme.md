@@ -75,7 +75,7 @@ With Fingerprint Pro Plus you get access to most Smart Signals. High-activity de
 
 ### BotD - open-source bot detection for the web
 
-[Botd](https://github.com/fingerprintjs/botd) is a browser JavaScript library for bot detection that enables you to detect bots and browser automation tools in your web applications. The [BotD integrations](https://github.com/fingerprintjs/botd-integrations) repository contains examples of integrations with cloud platforms.
+[Botd](https://github.com/fingerprintjs/botd) is a browser JavaScript library for bot detection that enables you to detect bots and browser automation tools in your web applications.
 
 ---
 
